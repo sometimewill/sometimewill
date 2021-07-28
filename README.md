@@ -4,6 +4,7 @@
 ### 🤔 I’m looking for help with 学习（really need help 芜湖）
 ### 💬 Ask me about playplay
 ### ⚡ Fun fact: 鼓捣
+### 📫 My Blog: https://sometimewill.github.io/
 <!--
 **sometimewill/sometimewill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
