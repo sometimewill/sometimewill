@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 🔭 I’m currently working on YsTen
 ### 🌱 I’m currently learning 鸡娃儿
 ### 🤔 I’m looking for help with 学习（really need help 芜湖）
 ### 💬 Ask me about playplay
