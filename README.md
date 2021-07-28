@@ -4,6 +4,8 @@
 ### 💬 Ask me about playplay
 ### ⚡ Fun fact: 鼓捣
 ### 📫 My Blog: https://sometimewill.github.io/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sometimewill/sometimewill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
