@@ -1,8 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently learning 鸡娃儿
-### 🤔 I’m looking for help with 学习（really need help 芜湖）
+### 🌱 I’m currently learning java python
+### 🤔 I’m looking for help with study（really need help 芜湖）
 ### 💬 Ask me about playplay
-### ⚡ Fun fact: 鼓捣
 ### 📫 My Blog: [https://sometimewill.github.io/](https://github.com/sometimewill/sometimewill-Blog)
 [![sometimewill's GitHub stats](https://github-readme-stats.vercel.app/api?username=sometimewill&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
